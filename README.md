@@ -86,3 +86,7 @@ For high-rate streams at 921600 bps, the system relies on the following system-l
 ## 5. Maintainer notes
 * **Safe shutdown**: Always click the `Stop` button to end recording so that disk buffers are fully flushed to the CSV file.
 * **Calibration requirement**: When clicking `Calibrate`, ensure the IMU is level and stationary.
+
+## 6. License
+![oshw_facts](https://github.com/user-attachments/assets/8088a6a9-7deb-46a6-aed4-554b3e862c8c)
+
